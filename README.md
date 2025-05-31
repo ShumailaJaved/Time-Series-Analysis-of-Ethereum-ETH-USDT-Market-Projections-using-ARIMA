@@ -2,7 +2,7 @@
 
 This project builds and evaluates an ARIMA time series model to forecast Ethereum (ETH/USDT) prices using historical data collected from Yahoo Finance. It includes data scraping, cleaning, exploratory data analysis (EDA), model training, evaluation, and 30-day forecasting.
 
----
+
 
 ##  Features
 
@@ -14,4 +14,3 @@ This project builds and evaluates an ARIMA time series model to forecast Ethereu
 - Evaluation using RMSE and MAPE
 - 30-day ETH price forecast with confidence intervals
 
--
