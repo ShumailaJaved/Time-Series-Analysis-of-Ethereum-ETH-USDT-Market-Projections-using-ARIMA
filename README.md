@@ -2,7 +2,6 @@
 
 This project applies time series analysis using the ARIMA model to forecast Ethereum (ETH/USDT) prices based on historical data. The workflow includes data collection, preprocessing, exploratory analysis, model selection via ACF/PACF and AIC, model evaluation, and a 30-day forecast with confidence intervals.
 
----
 
 ## 🔧 Key Features
 
